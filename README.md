@@ -1,1 +1,1 @@
-arraysort ödevi güncellendi.
+ARRAYSORT ÖDEVİ DÜZELTİLDİ
